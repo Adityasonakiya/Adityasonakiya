@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aditya Sonakiya</h1>
 <h3 align="center">A passionate Developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4713dvlmgkdit3wr415va9xaj14a5m9j3rfr0xd7wn&rid=giphy.gif&ct=g")
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4713dvlmgkdit3wr415va9xaj14a5m9j3rfr0xd7wn&rid=giphy.gif&ct=g">
 
 
 
