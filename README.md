@@ -34,4 +34,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adityasonakiya&include_all_commits=true&count_private=true&show_icons=true&locale=en&layout=compact&bg_color=0d1117" alt="The Github Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasonakiya&bg_color=0d1117" alt="adityasonakiya" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Adityasonakiya&theme=gruvbox_duo)](https://git.io/streak-stats)
