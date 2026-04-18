@@ -45,7 +45,7 @@
 - Spring Boot, REST APIs  
 - Spring Data JPA, Hibernate  
 - Kafka (Event-driven architecture)  
-- Microservices basics  
+- Microservices 
 
 #### 🎨 Frontend
 <p>
